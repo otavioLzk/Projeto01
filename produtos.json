@@ -1,0 +1,86 @@
+{
+    "LAR1": {
+        "codigo": "LAR1",
+        "nome": "laranja",
+        "preco": 3.5,
+        "quantidade": 100
+    },
+    "BFD43": {
+        "codigo": "BFD43",
+        "nome": "banana",
+        "preco": 6.5,
+        "quantidade": 234
+    },
+    "MEL123": {
+        "codigo": "MEL123",
+        "nome": "melao",
+        "preco": 7.5,
+        "quantidade": 20
+    },
+    "MAC45": {
+        "codigo": "MAC45",
+        "nome": "maçã",
+        "preco": 4.0,
+        "quantidade": 150
+    },
+    "PER29": {
+        "codigo": "PER29",
+        "nome": "pera",
+        "preco": 5.0,
+        "quantidade": 80
+    },
+    "UVA77": {
+        "codigo": "UVA77",
+        "nome": "uva",
+        "preco": 8.0,
+        "quantidade": 50
+    },
+    "ABT12": {
+        "codigo": "ABT12",
+        "nome": "abacate",
+        "preco": 7.0,
+        "quantidade": 70
+    },
+    "PES91": {
+        "codigo": "PES91",
+        "nome": "pêssego",
+        "preco": 6.0,
+        "quantidade": 40
+    },
+    "AME34": {
+        "codigo": "AME34",
+        "nome": "ameixa",
+        "preco": 5.5,
+        "quantidade": 25
+    },
+    "CER56": {
+        "codigo": "CER56",
+        "nome": "cereja",
+        "preco": 9.0,
+        "quantidade": 60
+    },
+    "MOR78": {
+        "codigo": "MOR78",
+        "nome": "morango",
+        "preco": 5.0,
+        "quantidade": 90
+    },
+    "PES64": {
+        "codigo": "PES64",
+        "nome": "pêssego",
+        "preco": 6.0,
+        "quantidade": 30
+    },
+    "MAM42": {
+        "codigo": "MAM42",
+        "nome": "mamão",
+        "preco": 4.5,
+        "quantidade": 55
+    },
+    "AME72": {
+        "codigo": "AME72",
+        "nome": "ameixa",
+        "preco": 5.5,
+        "quantidade": 25
+    }
+}
